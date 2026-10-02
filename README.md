@@ -1,16 +1,11 @@
 <h1 align="center">
-  Hi there, I am Raghuveer <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&pause=1000&color=FFB000&center=true&vCenter=true&width=550&lines=Hi+there,+I+am+Raghuveer&repeat=false" alt="Hi there, I am Raghuveer" style="vertical-align: middle;" />
+  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px" style="vertical-align: middle;">
 </h1>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00E5FF&center=true&vCenter=true&width=800&lines=Exploring+data+patterns;Building+web+apps;Developing+smart+vision+tools" alt="Typing SVG" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3776AB&center=true&vCenter=true&width=600&lines=BCA+Student+@+PSIT+Kanpur;Building+Smart+Vision+Tools;Full-Stack+Web+Developer;Exploring+Python+%26+React.js" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3776AB&center=true&vCenter=true&width=800&lines=Exploring+data+patterns;Building+web+apps;Developing+smart+vision+tools" alt="Typing SVG" />
   </a>
 </p>
 
