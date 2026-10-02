@@ -75,6 +75,7 @@
 </p>
 
 <br/>
+
 ### 💭 Dev Quote
 
 <p align="center">
