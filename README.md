@@ -1,13 +1,20 @@
-<h1 align="center">Hello! I'm Raghuveer</h1>
-<h3 align="center">Exploring data patterns, building web apps & developing smart vision tools</h3>
+<h1 align="center">
+  Hi there, I'm Raghuveer <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+</h1>
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3776AB&center=true&vCenter=true&width=600&lines=BCA+Student+@+PSIT+Kanpur;Building+Smart+Vision+Tools;Full-Stack+Web+Developer;Exploring+Python+%26+React.js" alt="Typing SVG" />
+  </a>
+</p>
 
 ### 🚀 About Me
 
-- 🔭 I'm currently working on **PrismHands**, a two-hand gesture tracking application using OpenCV and MediaPipe.
-- 🌱 I'm currently pursuing my **BCA** and deepening my knowledge in React.js and Supabase.
-- 👯 I'm looking to collaborate on **Python automation utilities and open-source web projects**.
+- 🔭 I'm currently developing **PrismHands**, a real-time two-hand gesture tracking app using Python, OpenCV, and MediaPipe.
+- 🌱 I'm a 3rd-semester **BCA student** deepening my knowledge in software engineering, operating systems, and React.js.
+- 👯 I'm looking to collaborate on **hackathon projects**, automation utilities, and open-source web apps.
 - 💬 Ask me about **Python, C++, JavaScript, and API development**.
-- ⚡ Fun fact: When I'm not coding, I'm probably trying to perfect my parries in *Sekiro* or feeding the local street dogs.
+- ⚡ Fun fact: I recharge by listening to Lord Huron, perfecting my parries in *Sekiro*, and feeding the local street dogs.
 
 <br/>
 
@@ -37,7 +44,7 @@
   <a href="https://www.linkedin.com/in/raghuveer-kumar-138bba37b/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:raghuveerwyou@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
