@@ -78,6 +78,6 @@
 
 ### 💭 Dev Quote
 
-> *"The really great programs I've written have all been ones that I have thought about for a huge amount of time before I ever wrote them."* <br>
-> <br>
-> — **Bill Gates**
+<p align="center">
+  <img src="https://https://github-readme-quotes-kappa.vercel.app/api?theme=tokyonight" alt="Dev Quote" />
+</p>
