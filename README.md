@@ -10,8 +10,8 @@
 </p>
 
 ### 🚀 About Me
-- 
-- 🔭 I'm currently developing **PrismHands**, a real-time two-hand gesture tracking app using Python, OpenCV, and MediaPipe.
+- 💻 I'm building a dynamic **YouTube Clone** from scratch using HTML, CSS, JavaScript, and the Fetch API.
+- 🔭 I also developed **PrismHands**, a real-time two-hand gesture tracking app using Python, OpenCV, and MediaPipe.
 - 🌱 I'm a 3rd-semester **BCA student** deepening my knowledge in software engineering, operating systems, and React.js.
 - 👯 I'm looking to collaborate on **hackathon projects**, automation utilities, and open-source web apps.
 - 💬 Ask me about **Python, C++, JavaScript, and API development**.
