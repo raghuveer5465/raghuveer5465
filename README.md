@@ -65,7 +65,7 @@
 ### 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=raghuveer5465&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
+  <img src="https://ghchart.rshah.org/00E5FF/raghuveer5465" alt="Contribution Graph" />
 </p>
 
 ### 📈 GitHub Streak
@@ -78,6 +78,6 @@
 
 ### 💭 Dev Quote
 
-<p align="center">
-  <img src="https://github-readme-quotes.vercel.app/quote?username=raghuveer5465&theme=radical&hide_border=true" alt="Dev Quote" />
-</p>
+> *"The really great programs I've written have all been ones that I have thought about for a huge amount of time before I ever wrote them."* <br>
+> <br>
+> — **Bill Gates**
