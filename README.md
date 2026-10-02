@@ -70,5 +70,5 @@
 ### 💭 Dev Quote
 
 <p align="center">
-  <img src="https://github-readme-quotes.vercel.app/quote?theme=radical&hide_border=true" alt="Dev Quote" />
+  <img src="https://github-readme-quotes.vercel.app/quote?username=raghuveer5465&theme=radical&hide_border=true" alt="Dev Quote" />
 </p>
