@@ -62,10 +62,10 @@
 
 <br/>
 
-### 📈 Contribution Graph
+### 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/00E5FF/raghuveer5465" alt="Contribution Graph" />
+  <img src="https://raw.githubusercontent.com/raghuveer5465/raghuveer5465/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
 </p>
 
 ### 📈 GitHub Streak
