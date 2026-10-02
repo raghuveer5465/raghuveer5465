@@ -75,9 +75,8 @@
 </p>
 
 <br/>
-
 ### 💭 Dev Quote
 
 <p align="center">
-  <img src="https://https://github-readme-quotes-kappa.vercel.app/api?theme=tokyonight" alt="Dev Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?theme=dracula" alt="Dev quote" />
 </p>
