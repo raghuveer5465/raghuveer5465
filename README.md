@@ -1,6 +1,12 @@
 <h1 align="center">
-  Hi there, I'm Raghuveer <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+  Hi there, I am Raghuveer <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px">
 </h1>
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00E5FF&center=true&vCenter=true&width=800&lines=Exploring+data+patterns;Building+web+apps;Developing+smart+vision+tools" alt="Typing SVG" />
+  </a>
+</p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -9,7 +15,7 @@
 </p>
 
 ### 🚀 About Me
-
+- 
 - 🔭 I'm currently developing **PrismHands**, a real-time two-hand gesture tracking app using Python, OpenCV, and MediaPipe.
 - 🌱 I'm a 3rd-semester **BCA student** deepening my knowledge in software engineering, operating systems, and React.js.
 - 👯 I'm looking to collaborate on **hackathon projects**, automation utilities, and open-source web apps.
