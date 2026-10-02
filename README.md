@@ -61,8 +61,10 @@
 
 ### 📈 Contribution Graph
 
+### 📈 GitHub Streak
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=raghuveer5465&theme=react-dark&hide_border=true&area=true&v=1 alt="Contribution Graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=raghuveer5465&theme=react-dark&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <br/>
